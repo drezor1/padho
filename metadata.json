@@ -1,0 +1,6 @@
+{
+  "name": "Padho App",
+  "description": "Padho App (Made by Deepak) is a dedicated study study-companion and interactive quiz app for Deepak's CG Pre-D.El.Ed entrance test and College Course studies, featuring AI assistance and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
